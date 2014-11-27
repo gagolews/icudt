@@ -7,15 +7,11 @@
 
 **Package maintainer**: [Marek Gagolewski](http://gagolewski.rexamine.com/)
 
-**Author**: [Marek Gagolewski](http://gagolewski.rexamine.com/),
-
 This git repository contains a custom subset of *ICU4C 52.1* data files
 which is copyrighted by IBM and others. A binary
 version of the Unicode Character Database is included.
 For more details on copyright holders see the `LICENSE` file.
 
 **Homepage**: http://stringi.rexamine.com/
-
-**CRAN entry**: http://cran.r-project.org/web/packages/stringi/
 
 **License**: BSD-3-clause, for more details see the `LICENSE` file

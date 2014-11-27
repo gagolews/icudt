@@ -1,4 +1,4 @@
-# **icudt**
+# **R package `icudt` **
 
 ### ICU data files needed by [stringi](http://stringi.rexamine.com)
 
@@ -14,4 +14,4 @@ For more details on copyright holders see the `LICENSE` file.
 
 **Homepage**: http://stringi.rexamine.com/
 
-**License**: BSD-3-clause, for more details see the `LICENSE` file
+**License**: see the `LICENSE` file

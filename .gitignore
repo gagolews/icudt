@@ -1,11 +1,41 @@
-# History files
+# Roxygen-generated man pages
+# man/*.Rd
+
+# Autoconf
+src/Makevars
+src/icu52_found.txt
+autom4te.cache
+config.log
+config.status
+.lineno
+
+# R/RStudio files:
+*.Rproj
+.Rproj.user
 .Rhistory
+.RData
+icudt.Rcheck
 
-# Example code in package build process
-*-Ex.R
+# compiled/precompiled files
+*.o
+*.so
+*.dll
+*.a
+src-i386/
+src-x64/
 
-# R data files from past sessions
-.Rdata
+# backup files
+*~
+*.backup
+*.bak
 
-# RStudio files
-.Rproj.user/
+# KDevelop project files:
+*.kdev4
+.kdev4
+
+# LaTeX/knitr dust:
+*.aux
+*.log
+*.out
+cache-knitr/
+cache/

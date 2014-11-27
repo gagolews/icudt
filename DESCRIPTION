@@ -1,0 +1,20 @@
+Package: icudt
+Version: 52.1-1
+Date: 2014-11-27
+Title: ICU data files
+Description: This package provides data files needed by
+    the ICU character string processing library.
+    It is extensively used by R package stringi.
+URL: http://stringi.rexamine.com/
+    http://site.icu-project.org/
+    http://www.unicode.org/
+BugReports: http://github.com/Rexamine/icudt/issues
+SystemRequirements: ICU4C (= 52.1)
+Type: Package
+Depends:
+    R (>= 2.15.0)
+License: file LICENSE
+Author: Marek Gagolewski (ICU data compilation);
+    IBM and other contributors (ICU4C 52.1 source code);
+    Unicode, Inc. (Unicode Character Database)
+Maintainer: Marek Gagolewski <gagolews@rexamine.com>
